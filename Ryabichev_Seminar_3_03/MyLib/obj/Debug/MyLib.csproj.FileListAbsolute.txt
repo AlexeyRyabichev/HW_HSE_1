@@ -1,0 +1,6 @@
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\MyLib\bin\Debug\MyLib.dll
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\MyLib\bin\Debug\MyLib.pdb
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\MyLib\obj\Debug\MyLib.dll
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\MyLib\obj\Debug\MyLib.pdb

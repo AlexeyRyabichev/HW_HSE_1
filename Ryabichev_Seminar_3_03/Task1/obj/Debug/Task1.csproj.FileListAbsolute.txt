@@ -1,0 +1,9 @@
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\bin\Debug\HW Template.exe.config
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\bin\Debug\HW Template.exe
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\bin\Debug\HW Template.pdb
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\obj\Debug\HW Template.exe
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\obj\Debug\HW Template.pdb
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\bin\Debug\MyLib.dll
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task1\bin\Debug\MyLib.pdb

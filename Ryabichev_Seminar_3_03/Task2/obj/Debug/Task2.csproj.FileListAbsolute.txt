@@ -1,0 +1,18 @@
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\bin\Debug\HW Template.exe.config
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\bin\Debug\HW Template.exe
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\bin\Debug\HW Template.pdb
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\bin\Debug\MyLib.dll
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\bin\Debug\MyLib.pdb
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\obj\Debug\HW Template.exe
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\obj\Debug\HW Template.pdb
+C:\Users\alexe\source\repos\Ryabicehv_Seminar_3_03\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\bin\Debug\HW Template.exe.config
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\bin\Debug\HW Template.exe
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\bin\Debug\HW Template.pdb
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\bin\Debug\MyLib.dll
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\bin\Debug\MyLib.pdb
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\obj\Debug\HW Template.exe
+C:\Users\alexe\source\repos\Ryabichev_Seminar_3_03\Task2\obj\Debug\HW Template.pdb
