@@ -4,9 +4,9 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7E273A01-45E7-4FDB-91FE-F39A786B8B82}</ProjectGuid>
+    <ProjectGuid>{67265F72-E8AF-4588-AACD-090A1C7EB88E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Task1</RootNamespace>
+    <RootNamespace>Task_1</RootNamespace>
     <AssemblyName>HW Template</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -49,9 +49,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyLib\MyLib.csproj">
-      <Project>{715e8e62-b2f7-44f4-a70e-5bca2a3ede2f}</Project>
-      <Name>MyLib</Name>
+    <ProjectReference Include="..\MyLibTask1\MyLibTask1.csproj">
+      <Project>{3d3cd4c2-7047-4c39-8733-66ecc18d5369}</Project>
+      <Name>MyLibTask1</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

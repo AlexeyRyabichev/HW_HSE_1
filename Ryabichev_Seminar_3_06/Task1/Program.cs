@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using MyLib;
 
 /*
@@ -12,7 +13,7 @@ namespace Task1
 {
     internal class Program
     {
-        private static void Main(string[] args)
+        private static void Main()
         {
             Random random = new Random(DateTime.Now.Millisecond);
             do
@@ -47,9 +48,9 @@ namespace Task1
             string ans;
             try
             {
-                ans = figure.Volume().ToString();
+                ans = figure.Volume().ToString(CultureInfo.InvariantCulture);
             }
-            catch (NotImplementedException e)
+            catch (NotImplementedException)
             {
                 ans = "No volume for this figure";
             }
