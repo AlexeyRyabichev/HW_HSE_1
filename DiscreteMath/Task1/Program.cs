@@ -40,6 +40,7 @@ namespace Task1
         private static void RunAllTests(Graph graph)
         {
             PrintAdjancencyMatrix(graph);
+            Console.WriteLine(graph.GetLowerBound());
         }
 
         private static void PrintAdjancencyMatrix(Graph graph)
